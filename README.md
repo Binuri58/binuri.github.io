@@ -1,28 +1,20 @@
-# Physicist
+# Ecologist
 ## Education                    
-- Ph.D in Applied Mathematics (Candidate) | Department of Mathematics, Statistics and Physics, Wichita State University, KS, USA. (_Auguts 2019 - Present_)
-- M.S in Physics | Department of Mathematics, Statistics and Physics, Wichita State University, KS, USA. (_Auguts 2017 - May 2019_)
-- B.S in Physics | University of Sri Jayewardenepura Sri Lanka. (_October 2011 - December 2015_).
+
+- M.S in Biology | Department of Biological Sciences, Wichita State University, KS, USA. (_Auguts 2022 - July 2024_)
+- B.S in Env. Sciences | University of Kelaniya, Sri Lanka. (_October 2015 - December 2018_)
  
 ## Research Experiences
-
-**PhD Thesis**
-- Theoretical Prediction for Multi Higgs Production via Photon Fusion at Muon Colliders.
-- Supervisor:  Dr. Terrence Figy.
  
 **MS Thesis**
-- Thesis: Pattern Storage in Qubit Arrays Using Entanglement and Quantum Annealing
-- Supervisor:  Dr. Elizabeth Behrman.
+- Thesis: A multi-spatial scale analysis of factors affecting browsing damage by White-tailed deer (Odocoileus virginianus) in Cross Timbers woodlands of Kansas and Oklahoma 
+- Primary Advisor:  Professor. Leland Russell
 
 **BS Thesis**
-- A Spectroscopic Study of Planetary Nebulae
-- Supervisors : Mr. Indika Madangangoda (ACCIMT) and Dr. P. Geekiyanage (USJP)
+- Thesis: Surface water quality analysis in Kalu Oya and Mudun Ela Basin 
+- Primary Advisorr : Professor. V.P.A. Weerasinghe 
 
 **Research Interests**
-
-- Quantum Field Theory and Particle Physics
-- Mathematical Physics
-- Cosmology
-- Geometry
-- Quantum Information
-- Computer-Algebra
+- Plant- herbivore interactions (Ungulates)
+- Oak regeneration
+- GIS applications in ecology

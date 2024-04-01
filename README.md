@@ -18,3 +18,14 @@
 - Plant- herbivore interactions (Ungulates)
 - Oak regeneration
 - GIS applications in ecology
+## Skills
+•	R
+•	Python
+•	ArcGIS
+•	Plant species identification 
+•	Landscape analysis: Fragstats and Landscape matrix in R 
+•	Handheld GPS units
+•	Data Management
+•	Quantitative Data Analysis
+
+  

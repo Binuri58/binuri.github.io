@@ -1,6 +1,6 @@
 # Ecologist
 ## Education                    
-![Alt text](/images/IMG_1387.jpg)
+
 - M.S in Biology | Department of Biological Sciences, Wichita State University, KS, USA. (_Auguts 2022 - July 2024_)
 - B.S in Env. Sciences | University of Kelaniya, Sri Lanka. (_October 2015 - December 2018_)
  
@@ -9,7 +9,7 @@
 **MS Thesis**
 - Thesis: A multi-spatial scale analysis of factors affecting browsing damage by White-tailed deer (Odocoileus virginianus) in Cross Timbers woodlands of Kansas and Oklahoma 
 - Primary Advisor:  Professor. Leland Russell
-
+![Alt text](/images/IMG_1869.jpg)
 **BS Thesis**
 - Thesis: Surface water quality analysis in Kalu Oya and Mudun Ela Basin 
 - Primary Advisorr : Professor. V.P.A. Weerasinghe 

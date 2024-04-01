@@ -1,6 +1,6 @@
 # Ecologist
 ## Education                    
-
+![Alt text](/images/IMG_1387.jpg)
 - M.S in Biology | Department of Biological Sciences, Wichita State University, KS, USA. (_Auguts 2022 - July 2024_)
 - B.S in Env. Sciences | University of Kelaniya, Sri Lanka. (_October 2015 - December 2018_)
  

@@ -9,7 +9,7 @@
 **MS Thesis**
 - Thesis: A multi-spatial scale analysis of factors affecting browsing damage by White-tailed deer (Odocoileus virginianus) in Cross Timbers woodlands of Kansas and Oklahoma 
 - Primary Advisor:  Professor. Leland Russell
-![Alt text](/images/IMG_1869.jpg)
+![Alt text](/images/IMG_1392.jpg)
 **BS Thesis**
 - Thesis: Surface water quality analysis in Kalu Oya and Mudun Ela Basin 
 - Primary Advisorr : Professor. V.P.A. Weerasinghe 

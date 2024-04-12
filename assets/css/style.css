@@ -1,48 +1,49 @@
-/* styles.css */
+/* style.css */
 
-@import 'jekyll-theme-cayman';
-
-/* Custom styles */
+/* Fonts */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image: url('./imgwebsite/Cover.JPG'); /* Adjust the path to match the location of your image */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    font-family: 'Arial', sans-serif; /* Adjust font family as needed */
 }
 
+/* Background */
+body {
+    background-image: url('imgwebsite/Cover.jpg'); /* Adjust the path to match your background image */
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Adjust background position as needed */
+    background-repeat: no-repeat; /* Adjust background repeat as needed */
+}
+
+/* Header */
 header {
-    background-color: rgba(248, 249, 250, 0.8); /* Adjust the background color and opacity as needed */
+    background-color: rgba(248, 249, 250, 0.8); /* Adjust background color and opacity as needed */
     padding: 20px;
     text-align: center;
 }
 
+/* Navigation */
 nav {
     text-align: center;
 }
 
 nav ul {
-    list-style-type: disc; /* Change to disc for bullet points */
+    list-style-type: none; /* Remove list style */
     margin: 0;
     padding: 0;
 }
 
 nav ul li {
-    /* Change to display block to make links vertical */
-    display: block;
-    margin-bottom: 10px; /* Add margin between list items */
+    display: inline-block; /* Display links horizontally */
+    margin-right: 20px; /* Add margin between links */
 }
 
 nav ul li a {
     text-decoration: none;
-    background-color: #ccd5ae; /* Change to your preferred background color */
-    border: 1px solid #2a9d8f; /* Adjust color and width as desired */
+    color: #007bff; /* Adjust link color as needed */
     padding: 5px 10px; /* Add padding for spacing */
 }
 
 nav ul li a:hover {
-    color: #007bff;
+    color: #0056b3; /* Adjust link hover color as needed */
 }
+
 

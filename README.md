@@ -7,12 +7,18 @@
 
 ---
 
+<div id="education" style="display: none;">
+
 ## Education <a name="education"></a>
 
 - M.S in Biology | Department of Biological Sciences, Wichita State University, KS, USA. (_Auguts 2022 - July 2024_)
 - B.S in Env. Sciences | University of Kelaniya, Sri Lanka. (_October 2015 - December 2018_)
 
+</div>
+
 ---
+
+<div id="research-experiences" style="display: none;">
 
 ## Research Experiences <a name="research-experiences"></a>
 
@@ -30,6 +36,23 @@
 - Oak regeneration
 - GIS applications in ecology
 
+</div>
+
 ---
 
+<div id="skills" style="display: none;">
+
 ## Skills <a name="skills"></a>
+
+</div>
+
+<script>
+    function toggleSection(sectionId) {
+        var section = document.getElementById(sectionId);
+        if (section.style.display === 'none') {
+            section.style.display = 'block';
+        } else {
+            section.style.display = 'none';
+        }
+    }
+</script>

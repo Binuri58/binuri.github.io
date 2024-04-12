@@ -56,3 +56,21 @@
         }
     }
 </script>
+
+## Navigation
+
+- [Education](#education-link)
+- [Research Experiences](#research-experiences-link)
+- [Skills](#skills-link)
+
+<script>
+    document.getElementById('education-link').onclick = function() {
+        toggleSection('education');
+    };
+    document.getElementById('research-experiences-link').onclick = function() {
+        toggleSection('research-experiences');
+    };
+    document.getElementById('skills-link').onclick = function() {
+        toggleSection('skills');
+    };
+</script>

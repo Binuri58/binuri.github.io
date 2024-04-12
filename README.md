@@ -1,25 +1,32 @@
+<script>
+    function scrollToSection(sectionId) {
+        var section = document.getElementById(sectionId);
+        window.scrollTo({
+            top: section.offsetTop,
+            behavior: 'smooth'
+        });
+    }
+</script>
+
 # Ecologist
 
 ## Table of Contents
-- [Education](#education)
-- [Research Experiences](#research-experiences)
-- [Skills](#skills)
+- [Education](javascript:scrollToSection('education'))
+- [Research Experiences](javascript:scrollToSection('research-experiences'))
+- [Skills](javascript:scrollToSection('skills'))
 
 ---
 
-<div id="education" style="display: none;">
-
+<div id="education">
 ## Education <a name="education"></a>
 
 - M.S in Biology | Department of Biological Sciences, Wichita State University, KS, USA. (_Auguts 2022 - July 2024_)
 - B.S in Env. Sciences | University of Kelaniya, Sri Lanka. (_October 2015 - December 2018_)
-
 </div>
 
 ---
 
-<div id="research-experiences" style="display: none;">
-
+<div id="research-experiences">
 ## Research Experiences <a name="research-experiences"></a>
 
 ### MS Thesis
@@ -35,24 +42,10 @@
 - Plant-herbivore interactions (Ungulates)
 - Oak regeneration
 - GIS applications in ecology
-
 </div>
 
 ---
 
-<div id="skills" style="display: none;">
-
+<div id="skills">
 ## Skills <a name="skills"></a>
-
 </div>
-
-<script>
-    function toggleSection(sectionId) {
-        var section = document.getElementById(sectionId);
-        if (section.style.display === 'none') {
-            section.style.display = 'block';
-        } else {
-            section.style.display = 'none';
-        }
-    }
-</script>

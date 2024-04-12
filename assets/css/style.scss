@@ -4,11 +4,58 @@
 @import 'jekyll-theme-cayman';
 
 /* Custom styles */
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+/* Custom styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url('imgwebsite/Cover.JPG'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
+header {
+    background-color: rgba(248, 249, 250, 0.8); /* Adjust the background color and opacity as needed */
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #007bff;
+}
+
 
 header {
     background-color: #f8f9fa;
